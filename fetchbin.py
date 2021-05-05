@@ -26,3 +26,7 @@ print(timez)
 
 # Getting the Server time
 
+servertimez = info['serverTime']
+print(servertimez)
+
+
